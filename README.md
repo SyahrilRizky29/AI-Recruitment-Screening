@@ -1,6 +1,6 @@
 # 🤖 AI-Recruitment-Screening
 
-Sistem otomasi screening CV pelamar kerja menggunakan **n8n** dan **AI (Gemini/Groq)**. Workflow ini mengubah dokumen PDF yang tidak terstruktur menjadi data penilaian kandidat yang terstruktur secara otomatis.
+Sistem otomasi screening CV pelamar kerja menggunakan **n8n** dan **AI (Groq)**. Workflow ini mengubah dokumen PDF yang tidak terstruktur menjadi data penilaian kandidat yang terstruktur secara otomatis.
 
 ---
 
